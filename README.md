@@ -1,1 +1,1 @@
-Version control experiment: Updated README using GitHub.
+This project demonstrates Git version control and collaboration using GitHub.
